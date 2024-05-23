@@ -1,0 +1,8 @@
+<svg data-name="browseing history" width="25"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.53 22">
+    <path class="cls-1"
+        d="M13.49,0A10.93,10.93,0,0,0,2.62,9.29H.31c-.31,0-.4.2-.21.44l2.77,3.35a.43.43,0,0,0,.7,0L6.2,9.75c.19-.25.09-.45-.22-.45H3.93a9.72,9.72,0,1,1,2.39,8.24.66.66,0,0,0-.92,0,.65.65,0,0,0,0,.91A11,11,0,1,0,13.49,0Z"></path>
+    <rect class="cls-1" x="12.84" y="3.88" width="1.29" height="7.76" rx="0.65" ry="0.65"></rect>
+    <rect class="cls-1" x="15.43" y="7.76" width="1.29" height="6.47" rx="0.65" ry="0.65"
+        transform="translate(27.07 -5.07) rotate(90)"></rect>
+</svg>
